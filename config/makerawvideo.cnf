@@ -1,0 +1,7 @@
+#Space delimited file
+
+data_path		data001
+start_frame 		1
+end_frame		1000
+bg_path			/Users/cisco/Documents/MATLAB/NEW/data/data001/C001H001S0001/000001.bmp
+seq_path		/Users/cisco/Documents/MATLAB/NEW/data/data001/C001H001S0016/000001.bmp
