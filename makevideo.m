@@ -48,7 +48,7 @@ if saving == true
 end
 
 noiseTol=[1 8 20];
-for ii = frames    cla
+for ii = frames
 	f = figure('Position',[0 0 1200 350],'PaperType','B','Visible','off');
     frameName = [num2str(ii,'%06d') '.bmp'];
     figure(f)

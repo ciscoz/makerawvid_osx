@@ -103,3 +103,7 @@ for frame in frame_range:
 	#proc = subprocess.Popen(["mkdir "+mk_dir+";mv -v Output/*.mat "+mk_dir],
 	#						shell=True,
 	#					   )
+proc = subprocess.Popen(["./compilevid.py"],
+                        shell=True,
+                       )
+proc.wait()
